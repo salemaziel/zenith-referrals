@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Merit';
+    src: url('../fonts/merit4.ttf');
+    src: url('../fonts/merit4.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+    font-family: 'Merit';
+    color: '#0d4879'
+}
