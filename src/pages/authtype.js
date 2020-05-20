@@ -21,8 +21,6 @@ function AuthTypePage(props) {
         afterAuthPath="/dashboard"
       ></AuthSection>
       <br></br>
-      <hr></hr>
-      <br></br>
      {/* <AuthSection2
         bg="dark"
         textColor="light"
